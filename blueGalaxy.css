@@ -1,0 +1,63 @@
+body{ 
+    background: url('img/blueGalaxy.jpg') no-repeat center center fixed; 
+    background-size: cover;
+    margin: 0 auto;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width:25%;
+    font-size: 15px;
+    font-family: 'Inconsolata', monospace;
+    color: #0b4cbb;
+}
+
+
+.principal {
+    background-color: black;
+    border: solid 3px;
+}
+
+.habilidades {
+    background-color: black;
+    border: solid 3px;
+}
+
+.curiosidades {
+    background-color: black;
+    border: solid 3px;
+}
+
+.preferências {
+    background-color: black;
+    border: solid 3px;
+}
+
+.redesSociais {
+    background-color: black;
+    border: solid 3px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr, th, td{
+    border: 1px solid #0b4cbb;
+}
+
+.marcadores{
+    list-style-type: none;
+}
+
+
+h1 {
+    font-size: 60px;
+    color: #003cff;
+}
+
+
+h2{
+    color: #003cff; 
+}
